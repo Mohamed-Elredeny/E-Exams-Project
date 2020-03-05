@@ -1,0 +1,28 @@
+.owners{
+	background: black;
+	color: white;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	height: 100px;
+	padding-bottom: 30px;
+}
+.owners div{
+	display: inline-block;
+}
+.owners div img{
+	position: relative;
+	left: 0;
+}
+.owner_details1 p, .owner_details2 p, .owner_details3 p{
+	position: relative;
+	width: 350px;
+	left: 150px;
+	margin-right: 80px;
+	bottom:120px;
+}
+.owner_details1 label, .owner_details2 label, .owner_details3 label{
+		position: relative;
+		bottom: 120px;
+		left: 150px;
+}

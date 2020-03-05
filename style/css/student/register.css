@@ -1,0 +1,29 @@
+.student-signup-form{
+	width: 800px;
+	height: 700px;
+	border: 2px solid black;
+	text-align: center;
+	position: relative;
+	top:128px;
+	left: 300px;
+	margin-bottom: 150px;
+}
+input{
+	display: block;
+}
+.student-signup-form .txt1{
+	position: relative;
+	right: 300px;
+	top:30px;
+}
+.student-signup-form .inp1{
+	position: relative;
+	left: 250px;
+	width: 400px;
+}
+.student-signup-form .sel1{
+	display: block;
+	position: relative;
+	left: 250px;
+	width: 100px;
+}

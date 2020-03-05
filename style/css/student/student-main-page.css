@@ -1,0 +1,39 @@
+.student-slider{
+	background: red;
+	position: absolute;
+	top:180px;
+	
+	width: 250px;
+	background: black;
+	color: white;
+}
+.student-slider ul li {
+	margin-bottom: 50px;
+}
+.student-content{
+	position: relative;
+	top:100px;
+	left: 300px;
+}
+.student-check-info{
+
+	border: 1px solid black;
+	border-radius: 10%;
+	width: 700px;
+	height: 500px;
+	padding: 20px;
+}
+
+.student-content-subject{
+	position: relative;
+	top:100px;
+	margin-bottom: 20px;
+}
+.student-content-subject1{
+	
+	position: relative;
+	bottom: 110px;
+	left: 400px;
+	margin-bottom: 20px;
+
+}

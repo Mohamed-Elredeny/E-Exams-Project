@@ -1,0 +1,29 @@
+.student-login-form{
+	width: 800px;
+	height: 300px;
+	border: 2px solid black;
+	text-align: center;
+	position: relative;
+	top:128px;
+	left: 300px;
+	margin-bottom: 150px;
+}
+input{
+	display: block;
+}
+.student-login-form .txt2{
+	position: relative;
+	right: 300px;
+	top:30px;
+}
+.student-login-form .inp2{
+	position: relative;
+	left: 250px;
+	width: 400px;
+}
+.student-login-form .sel2{
+	display: block;
+	position: relative;
+	left: 250px;
+	width: 100px;
+}
