@@ -1,4 +1,4 @@
-<h1> Team memmbers</h1>
+<h1> Team members</h1>
 <tr>
 <table>
   <tr>
