@@ -1,7 +1,7 @@
-                                                    <h1>E Exams Project</h1>
-<br><br>
+<h1>E Exams Project</h1>
+
 <h2> Team members</h2>
-<tr>
+
 <table>
   <tr>
     <td>Name</td>
