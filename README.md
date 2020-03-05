@@ -1,4 +1,4 @@
-<center><h1>E Exams Project</h1></center>
+                                                    <h1>E Exams Project</h1>
 <br><br>
 <h2> Team members</h2>
 <tr>
