@@ -1,5 +1,6 @@
-<h1 test-align="center">E Exams Project</h1>
-<h1> Team members</h1>
+<center><h1>E Exams Project</h1></center>
+<br><br>
+<h2> Team members</h2>
 <tr>
 <table>
   <tr>
